@@ -1,6 +1,6 @@
 ### Hi there I am Moe 👋
 
-<!--
+
 **Sarorimah/sarorimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/m-ez-sorori/
 - ⚡ Fun fact: I love to mix different cuisine spices when I cook :)
--->
+
