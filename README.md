@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning.
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/m-ez-sorori/
-- ⚡ Fun fact: I love to mix different cuisine spices when I cook :)
+- ⚡ Fun fact: I cook Italian food.
 
