@@ -1,6 +1,6 @@
 ### Hi there I am Moe 👋
 
-Here are some ideas to get you started:
+I'm from Berlin Germany. A bit about me:
 
 - 🔭 I’m currently working on improving my Data Analytics and Data science skills.
 - 🌱 I’m currently learning Deep Learning.
