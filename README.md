@@ -1,6 +1,6 @@
 ### Hi there I am Moe 👋
 
-I'm from Berlin-Germany.
+I'm from Germany.
 
 A bit about me:
 - 🔭 I’m currently working on improving my Data Analytics and Data science skills.
