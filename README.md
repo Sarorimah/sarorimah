@@ -8,5 +8,5 @@ A bit about me:
 - 💬 Ask me about anything.
 - ⚡ I'm currently commiting my previous Projects and works to GitHub.
 - 📫 How to reach me: https://www.linkedin.com/in/m-ez-sorori/
-- ⚡ Fun fact: As a child I dreamed of being a Famous Cook.
+- ⚡ Fun fact: As a child I dreamed of being a Famous Cook and later I realised I am cooking Data and Code very well.
 
