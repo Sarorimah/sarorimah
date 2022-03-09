@@ -1,6 +1,6 @@
 ### Hi there I am Moe 👋
 
-I'm from Germany. Grew up in Italy.
+Living in Germany. Grew up in Italy.
 
 A bit about me:
 - 🔭 I’m currently working on improving my Data Analytics and Data science skills.
